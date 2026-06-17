@@ -19,7 +19,7 @@ public:
 
                 // If index exceeds current string length
                 // OR characters do not match
-                if (i >= strs[j].length() || strs[j][i] != ch)
+                if (i >= strs[j].length() || strs[i][j] != ch)
                     // Return prefix till previous character
                     return strs[0].substr(0, i);
             }
