@@ -22,8 +22,6 @@ public:
         // Step 3: Traverse remaining intervals one by one
         for (int i = 1; i < intervals.size(); i++) {
 
-            // Last interval already present in result
-            int lastStart = result.back()[0]; // start of last merged interval
             int lastEnd = result.back()[1];   // end of last merged interval
 
             // Current interval from the input list
