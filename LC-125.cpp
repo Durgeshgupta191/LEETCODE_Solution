@@ -24,7 +24,7 @@ public:
 
             // Move both pointers inward
             left++;
-            right--;
+            right--;x   
         }
 
         // If the entire string has been checked without mismatches, it's a palindrome
