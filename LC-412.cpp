@@ -12,7 +12,7 @@ public:
             else if(i%3==0){
                 res.push_back("Fizz");
             }
-
+L
             else if(i%5==0){
                 res.push_back("Buzz");
             }
