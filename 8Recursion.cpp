@@ -1,5 +1,4 @@
     //WAP to print Number between (n to 1), where n is a poitive integer //
-   //*******************************************************************//
 
 #include <iostream>
 using namespace std;
