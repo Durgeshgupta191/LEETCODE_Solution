@@ -1,4 +1,4 @@
-// Delete Nthe node from a end of a Llist
+// Delete Nthe node from a end of a LLClist
 
 /**
  * Definition for singly-linked list.
